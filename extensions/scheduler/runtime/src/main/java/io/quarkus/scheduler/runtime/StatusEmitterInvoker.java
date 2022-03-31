@@ -1,6 +1,6 @@
 package io.quarkus.scheduler.runtime;
 
-import javax.enterprise.event.Event;
+import jakarta.enterprise.event.Event;
 
 import org.jboss.logging.Logger;
 
