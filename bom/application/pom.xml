@@ -71,7 +71,7 @@
         <jakarta.xml.bind-api.version>2.3.3</jakarta.xml.bind-api.version>
         <jaxb-runtime.version>2.3.3-b02</jaxb-runtime.version>
         <jboss-jaxrs-api_2.1_spec.version>2.0.1.Final</jboss-jaxrs-api_2.1_spec.version>
-        <jboss-jaxb-api_2.3_spec.version>2.0.0.Final</jboss-jaxb-api_2.3_spec.version>
+        <jboss-jaxb-api_2.3_spec.version>2.0.1.Final</jboss-jaxb-api_2.3_spec.version>
         <asm.version>9.2</asm.version>
         <commons-io.version>2.11.0</commons-io.version>
         <jboss-metadata-web.version>14.0.0.Final</jboss-metadata-web.version>
