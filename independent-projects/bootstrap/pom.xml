@@ -21,9 +21,7 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0.html</url>
         </license>
     </licenses>
-    <scm child.scm.connection.inherit.append.path="false"
-         child.scm.developerConnection.inherit.append.path="false"
-         child.scm.url.inherit.append.path="false">
+    <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
         <url>https://github.com/quarkusio/quarkus</url>
         <connection>scm:git:git@github.com:quarkusio/quarkus.git</connection>
         <developerConnection>scm:git:git@github.com:quarkusio/quarkus.git</developerConnection>
@@ -41,7 +39,7 @@
         <assertj.version>3.22.0</assertj.version>
         <eclipse-minimal-json.version>0.9.5</eclipse-minimal-json.version>
         <jboss-logging.version>3.4.3.Final</jboss-logging.version>
-        <jsoup.version>1.14.2</jsoup.version> <!-- wagon-http dependency -->
+        <jsoup.version>1.15.3</jsoup.version> <!-- wagon-http dependency -->
         <junit.jupiter.version>5.8.2</junit.jupiter.version>
         <maven-core.version>3.8.4</maven-core.version><!-- Keep in sync with sisu.version -->
         <sisu.version>0.3.5</sisu.version><!-- Keep in sync with maven-core.version -->
