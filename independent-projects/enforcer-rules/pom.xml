@@ -21,9 +21,7 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0.html</url>
         </license>
     </licenses>
-    <scm child.scm.connection.inherit.append.path="false"
-         child.scm.developerConnection.inherit.append.path="false"
-         child.scm.url.inherit.append.path="false">
+    <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
         <url>https://github.com/quarkusio/quarkus</url>
         <connection>scm:git:git@github.com:quarkusio/quarkus.git</connection>
         <developerConnection>scm:git:git@github.com:quarkusio/quarkus.git</developerConnection>
@@ -35,7 +33,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.release>11</maven.compiler.release>
 
-        <enforcer-api.version>3.0.0-M3</enforcer-api.version>
+        <enforcer-api.version>3.0.0</enforcer-api.version>
         <maven-invoker-plugin.version>3.2.2</maven-invoker-plugin.version>
         <maven-core.version>3.8.4</maven-core.version>
 
