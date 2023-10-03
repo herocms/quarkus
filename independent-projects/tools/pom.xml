@@ -21,9 +21,7 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0.html</url>
         </license>
     </licenses>
-    <scm child.scm.connection.inherit.append.path="false"
-         child.scm.developerConnection.inherit.append.path="false"
-         child.scm.url.inherit.append.path="false">
+    <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
         <url>https://github.com/quarkusio/quarkus</url>
         <connection>scm:git:git@github.com:quarkusio/quarkus.git</connection>
         <developerConnection>scm:git:git@github.com:quarkusio/quarkus.git</developerConnection>
@@ -59,7 +57,7 @@
         <version.surefire.plugin>3.0.0-M5</version.surefire.plugin>
         <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
         <quarkus.version>999-SNAPSHOT</quarkus.version>
-        <maven-model-helper.version>20</maven-model-helper.version>
+        <maven-model-helper.version>22</maven-model-helper.version>
         <commons-io.version>2.11.0</commons-io.version>
         <smallrye-common.version>1.11.0</smallrye-common.version>
         <jandex-maven-plugin.version>1.2.2</jandex-maven-plugin.version>
